@@ -2,7 +2,7 @@
 **vijayanvishnu/vijayanvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Vishnu Vijayan</h1>
-<h3 align="center">A passionate frontend developer and CP enthusiast from India</h3>
+<h3 align="center">A web developer and CP enthusiast from India.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
